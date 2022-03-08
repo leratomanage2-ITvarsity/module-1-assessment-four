@@ -1,0 +1,12 @@
+ table{
+ 	font-family: Halvetica, sans-serif;
+ 	border-collapse: collapse;
+ 	border-width: 1px;
+ 	border-style: solid; 
+ 	border-color: #4000FF;
+ }
+ th{
+ 	background-color: #4000FF;
+ 	color: #ffffff;
+ 	font-weight: 800;
+ }
